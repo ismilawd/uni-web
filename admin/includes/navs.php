@@ -21,7 +21,7 @@
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <li><a class="dropdown-item" href="#">تغییر رمز</a></li>
-            <li><a class="dropdown-item" href="#">خروج</a></li>
+            <li><a class="dropdown-item" href="../actions/auth/logout.php">خروج</a></li>
           </ul>
         </li>
       </ul>
